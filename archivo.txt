@@ -1,2 +1,4 @@
-Segunda version de archivo.txt
-Mas lineas
+
+Quitando mensaje anterior
+
+Agregando uno nuevo
