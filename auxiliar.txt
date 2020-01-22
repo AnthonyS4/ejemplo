@@ -1,0 +1,1 @@
+Este archivo estara en staging antes de aplicar git reset --soft
